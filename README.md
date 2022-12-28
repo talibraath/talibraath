@@ -3,12 +3,7 @@
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 <h2 align="center">👋 Hello! I'm Talib Raath.</h2>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=antu7&color=brightgreen&style=plastic)
-
 <h3>
-<h1 align="center">Hi 👋, I'm Talib Raath</h1>
-from music import headphones
 <h3 align="center">A passionate developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talib-raath&label=Profile%20views&color=0e75b6&style=flat" alt="talib-raath" /> </p>
