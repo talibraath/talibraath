@@ -1,3 +1,14 @@
+<!-- Zero width character is used to put extra blank lines before and after code -->
+
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+
+<h2 align="center">👋 Hello! I'm Antu.</h2>
+
+![Profile views counter](https://komarev.com/ghpvc/?username=antu7&color=brightgreen&style=plastic)
+
+<h3>
+    
+```python
 from music import headphones
 
 @music
@@ -10,3 +21,5 @@ class life:
     activitys   : tuple = ("Stackoverflow", "Hackthebox", "Hackerone")
 
 ​
+```
+</h3>
