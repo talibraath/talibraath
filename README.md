@@ -1,4 +1,16 @@
 <h1 align="center">Hi 👋, I'm Talib Raath</h1>
+from music import headphones
+
+@music
+class life:
+    languages   : tuple = ("Python", "PHP", "Bash")
+    frameworks  : tuple = ("Django", "FastAPI")
+    databases   : tuple = ("Mysql", "PostgreSQL", "Microsoft SQL Server")
+    ongoing     : tuple = ("Bug Bounty Hunting", "CTF", "System Security")
+    favorites   : tuple = ("Music", "Movie", "Exploit-Server")
+    activitys   : tuple = ("Stackoverflow", "Hackthebox", "Hackerone")
+
+
 <h3 align="center">A passionate developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talib-raath&label=Profile%20views&color=0e75b6&style=flat" alt="talib-raath" /> </p>
