@@ -2,18 +2,18 @@
 
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
-<h2 align="center">👋 Hello! I'm Talib Raath.</h2>
+<h2 align="center">👋 Hello! I'm Talib Husain</h2>
 <h3>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talib-raath&label=Profile%20views&color=0e75b6&style=flat" alt="talib-raath" /> </p>
 
-- 💬 Ask me about **C++ ,Python, Java, Web Development**
+- 💬 Ask me about **C++ ,Python, DRF and Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/talibraath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="talibraath" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/talib-raath-748023191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/talib-raath-748023191/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/talibraath-748023191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/talibraath-748023191/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/talibraath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="talib.raath" height="30" width="40" /></a>
 </p>
 
